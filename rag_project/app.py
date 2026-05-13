@@ -19,7 +19,7 @@ def get_answer(context, question):
     {
     "role": "system",
     "content": """
-You are a helpful resume assistant.
+You are a helpful AI assistant.
 
 Use ONLY the provided context to answer questions.
 If multiple relevant points exist, combine them into a clear and natural response.
